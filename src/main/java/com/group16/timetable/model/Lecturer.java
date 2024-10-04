@@ -89,12 +89,12 @@ public class Lecturer {
 		this.id = id;
 	}
 	
-	public List<Timetable> getTimetables() {
-		return timetables;
+	public List<Modules> getTimetables() {
+		return modules;
 	}
 
-	public void setTimetables(List<Timetable> timetables) {
-		this.timetables = timetables;
+	public void setTimetables(List<Modules> timetables) {
+		this.modules = timetables;
 	}
 
 
