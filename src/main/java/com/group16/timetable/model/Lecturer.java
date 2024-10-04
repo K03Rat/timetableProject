@@ -19,22 +19,22 @@ import jakarta.persistence.Table;
 public class Lecturer {
 	
 	@Id
-	@GeneratedValue(strategy = GenerationType.AUTO)
-    @Column(name = "lecturer_id")
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "id")
 	private Long id;
 	
-	@Column(name = "lecturer_first_name", nullable = false)
+	@Column(name = "first_name", nullable = false)
     private String firstName;
 
-    @Column(name = "lecturer_last_name", nullable = false)
+    @Column(name = "last_name", nullable = false)
     private String lastName;
 
-    @Column(name = "lecturer_email")
+    @Column(name = "email")
     private String email;
 	
 	@ManyToMany(mappedBy = "lecturers")
 	@JsonIgnore
-	private List<Timetable> timetables;
+	private List<Modules> modules;
 	
 	// Default Constructor
 	public Lecturer() {
