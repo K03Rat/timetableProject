@@ -49,11 +49,11 @@ public class Lecturer {
 	}
 	
 	// Constructor with timetables
-	public Lecturer(String firstName, String lastName, String email, List<Timetable> timetables) {
+	public Lecturer(String firstName, String lastName, String email, List<Modules> modules) {
 		this.firstName = firstName;
 		this.lastName = lastName;
 		this.email = email;
-		this.timetables = timetables;
+		this.modules = modules;
 	}
 
 	// Getters and Setters
