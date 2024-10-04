@@ -22,9 +22,9 @@ import jakarta.persistence.Table;
 @Table(name = "timetables")
 public class Timetable {
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id")
-    private Long timetableId; // Primary key
+    private Long id; // Primary key
     
     @Column(name = "semester")
     private int semester;
@@ -36,10 +36,7 @@ public class Timetable {
     
     @Column(name = "start_time")
     private LocalTime startTime; 
-    
-    @Column(name = "end_time")
-    private LocalTime endTime;   
-    
+
     @Column(name = "day") // Change column name to reflect integer representation
     private int dayOfWeek; // Integer representation for days of the week (0 = Monday, 1 = Tuesday, etc.)
 
@@ -49,35 +46,26 @@ public class Timetable {
     @Column(name ="event_type_num")
     private int type;
     
-    @ManyToMany
-    @JoinTable(
-        name = "timetable_lecturers",
-        joinColumns = @JoinColumn(name = "timetable_id"),
-        inverseJoinColumns = @JoinColumn(name = "lecturer_id")
-    )
-    @JsonIgnore
-    private List<Lecturer> lecturers;
+
 
     // Constructor with required fields
-    public Timetable(Modules moduleTaught, LocalTime startTime, LocalTime endTime, int dayOfWeek, int type, List<Lecturer> lecturers) {
+    public Timetable(Modules moduleTaught, LocalTime startTime,  int dayOfWeek, int type) {
         this.moduleTaught = moduleTaught;
         this.startTime = startTime;
-        this.endTime = endTime;
         this.dayOfWeek = dayOfWeek;
         this.type = type;
-        this.lecturers = lecturers;
     }
 
     // Default constructor for JPA
     public Timetable() {super();}
 
     // Getters and Setters
-    public Long getTimetableId() {
-        return timetableId;
+    public Long getId() {
+        return id;
     }
 
-    public void setTimetableId(Long timetableId) {
-        this.timetableId = timetableId;
+    public void setId(Long timetableId) {
+        this.id = timetableId;
     }
 
     public int getSemester() {
@@ -104,14 +92,6 @@ public class Timetable {
         this.startTime = startTime;
     }
 
-    public LocalTime getEndTime() {
-        return endTime;
-    }
-
-    public void setEndTime(LocalTime endTime) {
-        this.endTime = endTime;
-    }
-
     public int getDayOfWeek() {
         return dayOfWeek;
     }
@@ -128,25 +108,15 @@ public class Timetable {
         this.venue = venue;
     }
 
-    public List<Lecturer> getLecturers() {
-        return lecturers;
-    }
-
-    public void setLecturers(List<Lecturer> lecturers) {
-        this.lecturers = lecturers;
-    }
-
     @Override
     public String toString() {
         return "Timetable{" +
-                "timetableId=" + timetableId +
+                "timetableId=" + id +
                 ", semester=" + semester +
                 ", module=" + moduleTaught +
                 ", startTime=" + startTime +
-                ", endTime=" + endTime +
                 ", dayOfWeek=" + dayOfWeek +
                 ", venue='" + venue + '\'' +
-                ", lecturers=" + lecturers +
                 '}';
     }
 }

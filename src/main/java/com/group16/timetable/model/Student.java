@@ -23,9 +23,10 @@ public class Student {
     @JoinColumn(name = "course_id", nullable = false)
     private Course course;
 	
-	private Student() {
+	public Student() {
 		super();
 	}
+
 	public Student(Long id, String firstName, String lastName, String email, Course course ) {
 		this.id = id;
 		this.firstName = firstName;
@@ -33,7 +34,8 @@ public class Student {
 		this.email = email;
 		this.course = course;
 	}
-	
+
+
 	public Long getStudentId() {
 		return id;
 	}
