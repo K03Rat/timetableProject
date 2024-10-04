@@ -19,7 +19,7 @@ import jakarta.persistence.JoinColumn;
 @Table(name = "courses")
 public class Course {
 	@Id
-	@GeneratedValue(strategy = GenerationType.AUTO)
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	@Column(name = "id")
 	private Long id;
 	
@@ -28,7 +28,7 @@ public class Course {
 	
 	@ManyToMany
 	@JoinTable(
-	    name = "course_module",
+	    name = "course_modules",
 	    joinColumns = @JoinColumn(name="course_id"),
 	    inverseJoinColumns = @JoinColumn(name="module_id")
 	)
