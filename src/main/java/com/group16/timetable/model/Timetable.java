@@ -28,25 +28,25 @@ public class Timetable {
     
     @Column(name = "semester")
     private int semester;
-    
-    @ManyToOne // Use ManyToOne as a timetable is related to one module
-    @JoinColumn(name = "module_id", nullable = false) // Ensure that module_code cannot be null
-    @JsonIgnore 
-    private Modules moduleTaught; 
-    
+
+    @ManyToOne
+    @JoinColumn(name = "module_id")
+    private Modules moduleTaught; // This should be the correct reference
+
     @Column(name = "start_time")
     private LocalTime startTime; 
 
     @Column(name = "day") // Change column name to reflect integer representation
-    private int dayOfWeek; // Integer representation for days of the week (0 = Monday, 1 = Tuesday, etc.)
+    private int dayOfWeek; // Integer representation for days of the week (0 = Monday, 1 = Tuesday, etc.) with the use of enum later
 
     @Column(name = "venue")
     private String venue; 
     
     @Column(name ="event_type_num")
     private int type;
-    
 
+    // Default constructor for JPA
+    public Timetable() {super();}
 
     // Constructor with required fields
     public Timetable(Modules moduleTaught, LocalTime startTime,  int dayOfWeek, int type) {
@@ -56,17 +56,21 @@ public class Timetable {
         this.type = type;
     }
 
-    // Default constructor for JPA
-    public Timetable() {super();}
+    public Timetable( int semester, Modules moduleTaught, LocalTime startTime, int dayOfWeek, String venue, int type) {
+        this.semester = semester;
+        this.moduleTaught = moduleTaught;
+        this.startTime = startTime;
+        this.dayOfWeek = dayOfWeek;
+        this.venue = venue;
+        this.type = type;
+    }
+
 
     // Getters and Setters
     public Long getId() {
         return id;
     }
 
-    public void setId(Long timetableId) {
-        this.id = timetableId;
-    }
 
     public int getSemester() {
         return semester;
@@ -103,6 +107,13 @@ public class Timetable {
     public String getVenue() {
         return venue;
     }
+    public void setType(int type){
+        this.type = type;
+    }
+    public int getType(){
+        return type;
+    }
+
 
     public void setVenue(String venue) {
         this.venue = venue;
