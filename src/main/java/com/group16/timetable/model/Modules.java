@@ -3,16 +3,12 @@ package com.group16.timetable.model;
 import java.util.List;
 import java.util.Set;
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
 import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonManagedReference;
 
-import jakarta.persistence.Column;
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
-import jakarta.persistence.ManyToMany;
-import jakarta.persistence.Table;
+import jakarta.persistence.*;
 
 @Entity
 @Table(name="modules")
@@ -26,10 +22,26 @@ public class Modules {
 	
 	@Column(name="module_name")
 	private String name;
-	
-	@ManyToMany(mappedBy = "modules")
+
 	@JsonIgnore
-	List<Course> courses;
+	@ManyToMany(mappedBy = "modules")
+	private Set<Course> courses;
+
+	public Set<Timetable> getTimetables() {
+		return timetables;
+	}
+
+	public void setTimetables(Set<Timetable> timetables) {
+		this.timetables = timetables;
+	}
+
+	@JsonIgnore
+	@OneToMany(mappedBy = "moduleTaught")
+	private Set<Timetable> timetables;
+
+	@JsonIgnore
+	@ManyToMany(mappedBy="modules")
+	Set<Lecturer> lecturers;
 	
 	public Modules() {
 		super();
@@ -39,13 +51,8 @@ public class Modules {
 		this.code =code;
 		this.name = name;
 	}
-	public Modules(String code, String name, List<Course> courses) {
-		this.code = code;
-		this.name = name;
-		this.courses = courses;
-	}
 	
-	public Long getModuleId() {
+	public Long getId() {
 		return id;
 	}
 	
@@ -63,8 +70,9 @@ public class Modules {
 	public void setModuleName(String name){
 		this.name = name;
 	}
-	public List<Course> getCoursesStuding(){
-		return courses;
-	}
+//	public Set<Course> getCoursesStuding(){
+//		return courses;
+//	}
+	public Set<Lecturer> getLecturers(){return lecturers;}
 	
 }
