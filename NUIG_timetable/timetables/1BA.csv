@@ -1,0 +1,12 @@
+course_code,semester,module_code,module_name,time,day,lecturer,venue
+1BA,I,CT1100,Computer Systems,10:00:00,Monday,(B Chakravarthi / W Qureshi),Fottrell Theatre
+1BA,I,CT1101,Programming I,11:00:00,Tuesday,(F Smith),MRA201
+1BA,I,CT1101,Programming I,12:00:00,Tuesday,(F Smith),MRA201
+1BA,I,CT1101,Programming I Lab,10:00:00,Wednesday,(F Smith),CSB-G001
+1BA,I,CT1101,Programming I Lab,11:00:00,Wednesday,(F Smith),CSB-G001
+1BA,I,CT1100,Computer Systems Lab,12:00:00,Wednesday,(B Chakravarthi / W Qureshi),CSB-G001
+1BA,I,CT1100,Computer Systems Lab,13:00:00,Wednesday,(B Chakravarthi / W Qureshi),CSB-G001
+1BA,I,CT1100,Computer Systems Lab,14:00:00,Wednesday,(B Chakravarthi / W Qureshi),CSB-G001
+1BA,I,CT1101,Programming I Lab,10:00:00,Friday,(F Smith),CSB-G001
+1BA,I,CT1101,Programming I Lab,11:00:00,Friday,(F Smith),CSB-G001
+1BA,I,CT1120,Algorithms,12:00:00,Friday,(A Clear / K Mason),Tyndall Theatre

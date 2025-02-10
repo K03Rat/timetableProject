@@ -1,0 +1,18 @@
+course_code,semester,module_code,module_name,time,day,lecturer,venue
+1DDV,I,CT870,Internet Programming Lab,10:00:00,Monday,(E Barrett),CSB-G009
+1DDV,I,CT870,Internet Programming Lab,11:00:00,Monday,(E Barrett),CSB-G009
+1DDV,I,CT5200,Fundamentals of Python Programming Lab,14:00:00,Monday,(P Mannion),CSB-G009
+1DDV,I,CT5200,Fundamentals of Python Programming Lab,15:00:00,Monday,(P Mannion),CSB-G009
+1DDV,I,CT511,Databases,09:00:00,Tuesday,(A Brennan),CSB-G005
+1DDV,I,CT511,Databases,10:00:00,Tuesday,(A Brennan),CSB-G005
+1DDV,I,ST2001,Statistics in Data Science I,11:00:00,Tuesday,(N Fitz-Simon),AMB-1021
+1DDV,I,CT511,Databases Lab,12:00:00,Tuesday,(A Brennan),CSB-G009/CSB-G010
+1DDV,I,CT511,Databases Lab,13:00:00,Tuesday,(A Brennan),CSB-G009/CSB-G010
+1DDV,I,ST2001,Statistics in Data Science I,14:00:00,Tuesday,(N Fitz-Simon),MRA-201
+1DDV,I,CT870,Internet Programming,10:00:00,Wednesday,(E Barrett),CSB-G010
+1DDV,I,CT870,Internet Programming,11:00:00,Wednesday,(E Barrett),CSB-G010
+1DDV,I,CT5200,Fundamentals of Python Programming,14:00:00,Wednesday,(P Mannion),AC201
+1DDV,I,CT5200,Fundamentals of Python Programming,15:00:00,Wednesday,(P Mannion),ENG-G018
+1DDV,I,-,CS Research Seminar Series,14:00:00,Thursday,,CSB-1005
+1DDV,I,CT5197,Interaction Design,10:00:00,Friday,(A Clear),"AC203, Arts Sc Bldg"
+1DDV,I,CT5197,Interaction Design,11:00:00,Friday,(A Clear),"AC203, Arts Sc Bldg"

@@ -1,0 +1,9 @@
+course_code,semester,module_code,module_name,time,day,lecturer,venue
+3BA,I,CT318,Human Computer Interaction,11:00:00,Monday,(K Young),CSB-1005
+3BA,I,CT3535,Object Oriented Programming III Lab,13:00:00,Monday,(O Molloy),CSB-G009
+3BA,I,CT3535,Object Oriented Programming III Lab,11:00:00,Tuesday,(O Molloy),CSB-G001
+3BA,I,CT319,Artificial Intelligence,15:00:00,Tuesday,(M Bendechache),CSB-1009
+3BA,I,CT319,Artificial Intelligence,16:00:00,Tuesday,(M Bendechache),CSB-1009
+3BA,I,CT318,Human Computer Interaction,12:00:00,Wednesday,(K Young),Dillon Theatre
+3BA,I,CT3535,Object Oriented Programming III,15:00:00,Thursday,(O Molloy),CSB-1005
+3BA,I,CT3535,Object Oriented Programming III,16:00:00,Thursday,(O Molloy),CSB-1005

@@ -1,0 +1,32 @@
+course_code,semester,module_code,module_name,time,day,lecturer,venue
+3BCT,I,MA385,Numerical Analysis I,09:00:00,Monday,,AC201
+3BCT,I,CT318,Human Computer Interaction,11:00:00,Monday,(K Young),CSB-1005
+3BCT,I,CT326,Programming III Lab,12:00:00,Monday,(A Clear),CSB-G001
+3BCT,I,CT3536,Games Programming Lab,13:00:00,Monday,(S Redfern),CSB-G001
+3BCT,I,CT3536,Games Programming Lab,14:00:00,Monday,(S Redfern),CSB-G001
+3BCT,I,CT326,Programming III,15:00:00,Monday,(A Clear),CSB-G005
+3BCT,I,CT5106,Software Engineering II,10:00:00,Tuesday,(O Molloy),AC215
+3BCT,I,CT5106,Software Engineering II,11:00:00,Tuesday,(O Molloy),AC215
+3BCT,I,CT326,Programming III,12:00:00,Tuesday,(A Clear),CSB-G005
+3BCT,I,MA341,Metric Spaces,14:00:00,Tuesday,(A McCluskey),AC201
+3BCT,I,CT3532,Database Systems II,15:00:00,Tuesday,(C O'Riordan),AC201
+3BCT,I,CT3531,Network & Data Communications II,16:00:00,Tuesday,(D Chambers),AC201
+3BCT,I,CT3536,Games Programming,10:00:00,Wednesday,(S Redfern),CSB-G005
+3BCT,I,CT3536,Games Programming,11:00:00,Wednesday,(S Redfern),CSB-G005
+3BCT,I,CT318,Human Computer Interaction,12:00:00,Wednesday,(K Young),Dillon Theatre
+3BCT,I,CT3531,Network & Data Communications II Lab,13:00:00,Wednesday,(D Chambers),CSB-G009
+3BCT,I,CT326,Programming III,15:00:00,Wednesday,(A Clear),CSB-1005
+3BCT,I,CT3531,Network & Data Communications II,16:00:00,Wednesday,(D Chambers),Joseph Larmor Theatre
+3BCT,I,CT5106,Software Engineering II Lab,10:00:00,Thursday,(O Molloy),CSB-G009
+3BCT,I,CT5106,Software Engineering II Lab,11:00:00,Thursday,(O Molloy),CSB-G009
+3BCT,I,CT5106,Software Engineering II,12:00:00,Thursday,, CSB-G009
+3BCT,I,MA3343,Groups,12:00:00,Thursday,, AC202
+3BCT,I,CT331,Prog Paradigms Lab,14:00:00,Thursday,(F Smith),CSB-G010
+3BCT,I,CT331,Prog Paradigms Lab,15:00:00,Thursday,, CSB- G010
+3BCT,I,MA385,Numerical Analysis I,15:00:00,Thursday,, AC201
+3BCT,I,CT3532,Database Systems II,16:00:00,Thursday,(C O'Riordan),AC215
+3BCT,I,CT331,Programming Paradigms,09:00:00,Friday,(F Smith),Charles McMunn Theatre
+3BCT,I,CT331,Programming Paradigms,10:00:00,Friday,(F Smith),Charles McMunn Theatre
+3BCT,I,CT326,Programming III Lab,11:00:00,Friday,(A Clear),"BLE2012, Block E"
+3BCT,I,MA3343,Groups,12:00:00,Friday,(J Cruickshank),AC201
+3BCT,I,MA341,Metric Spaces,15:00:00,Friday,(A McCluskey),AC202

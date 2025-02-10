@@ -1,0 +1,28 @@
+course_code,semester,module_code,module_name,time,day,lecturer,venue
+1ACS1,I,CT5191,Network Security & Cryptography Lab,09:00:00,Monday,(M Schukat),CSB-G010
+1ACS1,I,CT5191,Network Security & Cryptography Lab,10:00:00,Monday,(M Schukat),CSB-G010
+1ACS1,I,CT5105,Tools & Techniques for Large Scale Data Analytics,11:00:00,Monday,(M Nickles),AC214
+1ACS1,I,CT5105,Tools & Techniques for Large Scale Data Analytics,12:00:00,Monday,(M Nickles),AC214
+1ACS1,I,CT5120,Intro to Natural Lang. Processing,15:00:00,Monday,(P Buitelaar / J McCrae),CSB-1005
+1ACS1,I,CT5190,Societal Impact of AI and Cybersecurity,16:00:00,Monday,(M Asghar / M Bendechache),"BLE-1006, Block E"
+1ACS1,I,CT5190,Societal Impact of AI and Cybersecurity,17:00:00,Monday,(M Asghar / M Bendechache),"BLE-1006, Block E"
+1ACS1,I,CT5191,Network Security & Cryptography,09:00:00,Tuesday,(M Schukat),CSB-G001
+1ACS1,I,CT5191,Network Security & Cryptography,10:00:00,Tuesday,(M Schukat),CSB-G001
+1ACS1,I,CT5189,Introduction to Cybersecurity,16:00:00,Tuesday,(J Manzoor),HBB-G001
+1ACS1,I,CT5189,Introduction to Cybersecurity,17:00:00,Tuesday,(J Manzoor),HBB-G001
+1ACS1,I,CT5141,Optimisation Lab,10:00:00,Wednesday,(J McDermott),CSB-G009
+1ACS1,I,CT5132,Program. & Tools for AI,13:00:00,Wednesday,(J McDermott),ENG-G046
+1ACS1,I,CT5132,Program. & Tools for AI,14:00:00,Wednesday,(J McDermott),ENG-G046
+1ACS1,I,CT5132,Program. & Tools for AI,15:00:00,Wednesday,(J McDermott),ENG-G046
+1ACS1,I,CT5120,Intro to Natural Lang. Processing,16:00:00,Wednesday,(P Buitelaar / J McCrae),CSB-1005
+1ACS1,I,CT5189,Introduction to Cybersecurity Lab,11:00:00,Thursday,(J Manzoor),CSB-G010
+1ACS1,I,CT5189,Introduction to Cybersecurity Lab,12:00:00,Thursday,(J Manzoor),CSB-G010
+1ACS1,I,-,CS Research Seminar Series,14:00:00,Thursday,,CSB-1005
+1ACS1,I,CT5165,Principles of Machine Learning,16:00:00,Thursday,(I Ullah),CSB-G005
+1ACS1,I,CT5165,Principles of Machine Learning,17:00:00,Thursday,(I Ullah),CSB-1005
+1ACS1,I,CT5141,Optimisation,10:00:00,Friday,(J McDermott),AC214
+1ACS1,I,CT5141,Optimisation,11:00:00,Friday,(J McDermott),AC214
+1ACS1,I,CT5120,Intro to Natural Lang. Processing Lab,12:00:00,Friday,(P Buitelaar / J McCrae),CSB-G009 + CSB-G010
+1ACS1,I,CT5120,Intro to Natural Lang. Processing Lab,13:00:00,Friday,(P Buitelaar / J McCrae),CSB-G009 + CSB-G010
+1ACS1,I,CT5105,Tools & Techniques for Large Scale Data Analytics Lab,15:00:00,Friday,(M Nickles),CSB-G010
+1ACS1,I,CT5105,Tools & Techniques for Large Scale Data Analytics Lab,16:00:00,Friday,(M Nickles),CSB-G010

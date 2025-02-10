@@ -1,0 +1,29 @@
+course_code,semester,module_code,module_name,time,day,lecturer,venue
+1CSD,I,CT5105,Tools & Techniques for Large Scale Data Analytics,11:00:00,Monday,(M Nickles),AC214
+1CSD,I,CT5105,Tools & Techniques for Large Scale Data Analytics,12:00:00,Monday,(M Nickles),AC214
+1CSD,I,CT5120,Intro to Natural Lang. Processing,15:00:00,Monday,(P Buitelaar / J McCrae),CSB-1005
+1CSD,I,ST2001,Statistics in Data Science I,16:00:00,Monday,(N Fitz-Simon),AMB-1022
+1CSD,I,CT5102,Programming for Data Analytics,09:00:00,Tuesday,(M Madden / T Saber),CSB-G009
+1CSD,I,CT5102,Programming for Data Analytics,10:00:00,Tuesday,(M Madden / T Saber),CSB-G009
+1CSD,I,ST311,Applied Statistics I,12:00:00,Tuesday,(J Newell),ADB-G021
+1CSD,I,EE551,Embedded Image Proc.,16:00:00,Tuesday,(E Jones),ENG G047
+1CSD,I,EE551,Embedded Image Proc.,17:00:00,Tuesday,(E Jones),ENG G047
+1CSD,I,EE551,Embedded Image Proc.,09:00:00,Wednesday,(E Jones),ENG-3035
+1CSD,I,ST311,Applied Statistics I,10:00:00,Wednesday,(J Newell),ADB-G021
+1CSD,I,CT5102,Programming for Data Analytics Lab,11:00:00,Wednesday,(M Madden / T Saber),CSB-G009
+1CSD,I,CT5102,Programming for Data Analytics Lab,12:00:00,Wednesday,(M Madden / T Saber),CSB-G009
+1CSD,I,MA284,Discrete Mathematics,13:00:00,Wednesday,(K Jennings),Anderson Theatre
+1CSD,I,CT5120,Intro to Natural Lang. Processing,16:00:00,Wednesday,(P Buitelaar / J McCrae),CSB-1005
+1CSD,I,MP305,Modelling I,17:00:00,Wednesday,(S Venkata),Joseph Larmor Theatre
+1CSD,I,CT4100,Information Retrieval,10:00:00,Thursday,(C O'Riordan),CSB-G005
+1CSD,I,ST2001,Statistics in Data Science I,11:00:00,Thursday,(N Fitz-Simon),CSB-1006
+1CSD,I,CT4100,Information Retrieval,12:00:00,Thursday,(C O'Riordan),CSB-G005
+1CSD,I,-,CS Research Seminar Series,14:00:00,Thursday,,CSB-1005
+1CSD,I,CT5165,Principles of Machine Learning,16:00:00,Thursday,(I Ullah),CSB-G005
+1CSD,I,CT5165,Principles of Machine Learning,17:00:00,Thursday,(I Ullah),CSB-1005
+1CSD,I,MP305,Modelling I,09:00:00,Friday,(S Venkata),O'Tnuathail Theatre
+1CSD,I,MA284,Discrete Mathematics,11:00:00,Friday,(K Jennings),Fottrell Theatre
+1CSD,I,CT5120,Intro to Natural Lang. Processing Lab,12:00:00,Friday,(P Buitelaar / J McCrae),CSB-G009 + CSB-G010
+1CSD,I,CT5120,Intro to Natural Lang. Processing Lab,13:00:00,Friday,(P Buitelaar / J McCrae),CSB-G009 + CSB-G010
+1CSD,I,CT5105,Tools & Techniques for Large Scale Data Analytics Lab,15:00:00,Friday,(M Nickles),CSB-G010
+1CSD,I,CT5105,Tools & Techniques for Large Scale Data Analytics Lab,16:00:00,Friday,(M Nickles),CSB-G010

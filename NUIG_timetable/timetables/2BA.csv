@@ -1,0 +1,15 @@
+course_code,semester,module_code,module_name,time,day,lecturer,venue
+2BA,I,CT2101,Object Oriented Programming I,12:00:00,Monday,(E Ramlan),CSB-G005
+2BA,I,CT2101,Object Oriented Programming I,14:00:00,Monday,(E Ramlan),CSB-G005
+2BA,I,CT2101,Object Oriented Programming I Lab,09:00:00,Tuesday,(E Ramlan),CSB-G010
+2BA,I,CT2101,Object Oriented Programming I Lab,10:00:00,Tuesday,(E Ramlan),CSB-G010
+2BA,I,CT2105,Web Based Information Systems,12:00:00,Tuesday,(J Griffith),AUC-G002 Theatre
+2BA,I,CT230,Database Systems I,14:00:00,Tuesday,(J Griffith),Fottrell Theatre
+2BA,I,CT230,Database Systems I,12:00:00,Wednesday,(J Griffith),AUC-G002 Theatre
+2BA,I,CT230,Database Systems I Lab,10:00:00,Thursday,(J Griffith),CSB-G001
+2BA,I,CT230,Database Systems I Lab,11:00:00,Thursday,(J Griffith),CSB-G001
+2BA,I,CT230,Database Systems I Lab,12:00:00,Thursday,(J Griffith),CSB-G001
+2BA,I,CT230,Database Systems I Lab,13:00:00,Thursday,(J Griffith),CSB-G001
+2BA,I,CT2101,Object Oriented Programming I Lab,16:00:00,Thursday,(E Ramlan),CSB-G001
+2BA,I,CT2101,Object Oriented Programming I Lab,17:00:00,Thursday,(E Ramlan),CSB-G001
+2BA,I,CT2105,Web Based Information Systems,12:00:00,Friday,(J Griffith),CSB-1007

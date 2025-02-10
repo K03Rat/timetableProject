@@ -1,0 +1,28 @@
+course_code,semester,module_code,module_name,time,day,lecturer,venue
+2BCT,I,CT213,Computer Systems & Organisation Lab,09:00:00,Monday,(T Saber),CSB-G001
+2BCT,I,CT213,Computer Systems & Organisation Lab,10:00:00,Monday,(T Saber),CSB-G001
+2BCT,I,MA2286,Differential Forms,11:00:00,Monday,(E Skoldberg),Anderson Theatre
+2BCT,I,CT255,Next Generation Technologies ll,13:00:00,Monday,(M Schukat/S Redfern),AC213
+2BCT,I,CT213,Computer Systems & Organisation,14:00:00,Monday,(T Saber),HBB-B001
+2BCT,I,CT213,Computer Systems & Organisation,15:00:00,Monday,(T Saber),Charles McMunn Theatre
+2BCT,I,ST2001,Statistics in Data Science I,16:00:00,Monday,(N Fitz-Simon),AMB-1022
+2BCT,I,CT2106,OOP Lab,11:00:00,Tuesday,(F Glavin),BLE2012 Block E/BLE-G013 Block E/Arts Sci Rm 105
+2BCT,I,CT2106,OOP Lab,12:00:00,Tuesday,(F Glavin),BLE2012 Block E/BLE-G013 Block E/Arts Sci Rm 105
+2BCT,I,CT230,Database Systems I,14:00:00,Tuesday,(J Griffith),Fottrell Theatre
+2BCT,I,CT230,Database Systems I Lab,15:00:00,Tuesday,(J Griffith),CSB-G009
+2BCT,I,CT230,Database Systems I Lab,16:00:00,Tuesday,(J Griffith),CSB-G009
+2BCT,I,MA2286,Differential Forms,11:00:00,Wednesday,(E Skoldberg),"AUC-G002 Theatre, Áras Uí Chathail"
+2BCT,I,CT230,Database Systems I,12:00:00,Wednesday,(J Griffith),"AUC-G002 Theatre, Áras Uí Chathail"
+2BCT,I,MA284,Discrete Mathematics,13:00:00,Wednesday,(K Jennings),Anderson Theatre
+2BCT,I,CT255,Next Generation Technologies ll Lab,14:00:00,Wednesday,(M Schukat/S Redfern),CSB-G009
+2BCT,I,CT255,Next Generation Technologies ll Lab,15:00:00,Wednesday,(M Schukat/S Redfern),CSB-G009
+2BCT,I,CT2106,OOP,09:00:00,Thursday,(F Glavin),Darcy Thompson Theatre
+2BCT,I,ST2001,Statistics in Data Science I,11:00:00,Thursday,(N Fitz-Simon),CSB-1006
+2BCT,I,CT216,Software Engineering I,12:00:00,Thursday,(E Barrett),Arts/Sc Grd Floor 105
+2BCT,I,CT216,Software Engineering I,13:00:00,Thursday,(E Barrett),Arts/Sc Grd Floor 105
+2BCT,I,CT2106,OOP,10:00:00,Friday,(F Glavin),CSB-1006
+2BCT,I,MA284,Discrete Mathematics,11:00:00,Friday,(K Jennings),AMB-1022
+2BCT,I,CT216,Software Engineering I Lab,12:00:00,Friday,(E Barrett),CSB-G001
+2BCT,I,CT216,Software Engineering I Lab,13:00:00,Friday,(E Barrett),CSB-G001
+2BCT,I,CT2106,OOP Lab,15:00:00,Friday,(F Glavin),CSB-G001
+2BCT,I,CT2106,OOP Lab,16:00:00,Friday,(F Glavin),CSB-G001

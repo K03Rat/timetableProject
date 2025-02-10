@@ -1,0 +1,34 @@
+course_code,semester,module_code,module_name,time,day,lecturer,venue
+2MF1,I,CT5191,Network Security & Cryptography Lab,09:00:00,Monday,(M Schukat),CSB-G010
+2MF1,I,CT5191,Network Security & Cryptography Lab,10:00:00,Monday,(M Schukat),CSB-G010
+2MF1,I,CT3536,Games Programming Lab,13:00:00,Monday,(S Redfern),CSB-G001
+2MF1,I,CT3536,Games Programming Lab,14:00:00,Monday,(S Redfern),CSB-G001
+2MF1,I,CT5120,Intro to Natural Lang. Processing,15:00:00,Monday,(P Buitelaar / J McCrae),CSB-1005
+2MF1,I,CT5102,Programming for Data,09:00:00,Tuesday,, CSB-G009
+2MF1,I,CT5191,Network Security &,09:00:00,Tuesday,, CSB-G001
+2MF1,I,CT5102,Programming for Data,10:00:00,Tuesday,, CSB-G009
+2MF1,I,CT5191,Network Security &,10:00:00,Tuesday,, CSB-G001
+2MF1,I,CT5189,Introduction to Cybersecurity,16:00:00,Tuesday,(J Manzoor),HBB-G001
+2MF1,I,CT5189,Introduction to Cybersecurity,17:00:00,Tuesday,(J Manzoor),HBB-G001
+2MF1,I,CT3536,Games Programming,10:00:00,Wednesday,(S Redfern),CSB-G005
+2MF1,I,CT3536,Games Programming,11:00:00,Wednesday,, CSB-G005
+2MF1,I,CT5102,Programming for Data,11:00:00,Wednesday,, CSB-G009
+2MF1,I,CT5102,Programming for Data Analytics Lab,12:00:00,Wednesday,(M Madden / T Saber),CSB-G009
+2MF1,I,CT5132,Program. & Tools for AI,13:00:00,Wednesday,(J McDermott),ENG-G046
+2MF1,I,CT5132,Program. & Tools for AI,14:00:00,Wednesday,(J McDermott),ENG-G046
+2MF1,I,CT5132,Program. & Tools for AI,15:00:00,Wednesday,(J McDermott),ENG-G046
+2MF1,I,CT5120,Intro to Natural Lang. Processing,16:00:00,Wednesday,(P Buitelaar / J McCrae),CSB-1005
+2MF1,I,CT4100,Information Retrieval,10:00:00,Thursday,(C O'Riordan),CSB-G005
+2MF1,I,CT404,Graphics & Image,11:00:00,Thursday,," Arts & Sci, Grd Fl, Room 105"
+2MF1,I,CT5189,Introduction to,11:00:00,Thursday,, CSB-G010
+2MF1,I,CT5189,Introduction to,12:00:00,Thursday,, CSB-G010
+2MF1,I,CT4100,Information Retrieval,12:00:00,Thursday,, CSB-G005
+2MF1,I,CT404,Graphics & Image Processing,13:00:00,Thursday,(N Batool / W Qureshi),AC201
+2MF1,I,-,CS Research Seminar Series,14:00:00,Thursday,,CSB-1005
+2MF1,I,CT404,Graphics & Image Processing,15:00:00,Thursday,(N Batool / W Qureshi),CSB-1009
+2MF1,I,CT5165,Principles of Machine Learning,16:00:00,Thursday,(I Ullah),CSB-G005
+2MF1,I,CT5165,Principles of Machine Learning,17:00:00,Thursday,(I Ullah),CSB-1005
+2MF1,I,CT5197,Interaction Design,10:00:00,Friday,(A Clear),"AC203, Arts Sc Bldg"
+2MF1,I,CT5197,Interaction Design,11:00:00,Friday,(A Clear),"AC203, Arts Sc Bldg"
+2MF1,I,CT5120,Intro to Natural Lang. Processing Lab,12:00:00,Friday,(P Buitelaar / J McCrae),CSB-G009 + CSB-G010
+2MF1,I,CT5120,Intro to Natural Lang. Processing Lab,13:00:00,Friday,(P Buitelaar / J McCrae),CSB-G009 + CSB-G010

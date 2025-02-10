@@ -1,0 +1,25 @@
+course_code,semester,module_code,module_name,time,day,lecturer,venue
+1MAI1,I,CT5105,Tools & Techniques for Large Scale Data Analytics,11:00:00,Monday,(M Nickles),AC214
+1MAI1,I,CT5105,Tools & Techniques for Large Scale Data Analytics,12:00:00,Monday,(M Nickles),AC214
+1MAI1,I,CT5120,Intro to Natural Lang. Processing,15:00:00,Monday,(P Buitelaar / J McCrae),CSB-1005
+1MAI1,I,CT5142,AI and Ethics,09:00:00,Tuesday,(H Felzmann ),AC204
+1MAI1,I,CT5142,AI and Ethics,10:00:00,Tuesday,(H Felzmann ),AC204
+1MAI1,I,EE551,Embedded Image Proc.,16:00:00,Tuesday,(E Jones),ENG G047
+1MAI1,I,EE551,Embedded Image Proc.,17:00:00,Tuesday,(E Jones),ENG G047
+1MAI1,I,EE551,Embedded Image Proc.,09:00:00,Wednesday,(E Jones),ENG-3035
+1MAI1,I,CT5141,Optimisation Lab,10:00:00,Wednesday,(J McDermott),CSB-G009
+1MAI1,I,CT5132,Program. & Tools for AI,13:00:00,Wednesday,(J McDermott),ENG-G046
+1MAI1,I,CT5132,Program. & Tools for AI,14:00:00,Wednesday,(J McDermott),ENG-GO46
+1MAI1,I,CT5132,Program. & Tools for AI,15:00:00,Wednesday,(J McDermott),ENG-GO46
+1MAI1,I,CT5120,Intro to Natural Lang. Processing,16:00:00,Wednesday,(P Buitelaar / J McCrae),CSB-1005
+1MAI1,I,CT4100,Information Retrieval,10:00:00,Thursday,(C O'Riordan),CSB-G005
+1MAI1,I,CT4100,Information Retrieval,12:00:00,Thursday,(C O'Riordan),CSB-G005
+1MAI1,I,-,CS Research Seminar Series,14:00:00,Thursday,,CSB-1005
+1MAI1,I,CT5165,Principles of Machine Learning,16:00:00,Thursday,(I Ullah),CSB-G005
+1MAI1,I,CT5165,Principles of Machine Learning,17:00:00,Thursday,(I Ullah),CSB-1005
+1MAI1,I,CT5141,Optimisation,10:00:00,Friday,(J McDermott),AC214
+1MAI1,I,CT5141,Optimisation,11:00:00,Friday,(J McDermott),AC214
+1MAI1,I,CT5120,Intro to Natural Lang. Processing Lab,12:00:00,Friday,(P Buitelaar / J McCrae),CSB-G009 + CSB-G010
+1MAI1,I,CT5120,Intro to Natural Lang. Processing Lab,13:00:00,Friday,(P Buitelaar / J McCrae),CSB-G009 + CSB-G010
+1MAI1,I,CT5105,Tools & Techniques for Large Scale Data Analytics Lab,15:00:00,Friday,(M Nickles),CSB-G010
+1MAI1,I,CT5105,Tools & Techniques for Large Scale Data Analytics Lab,16:00:00,Friday,(M Nickles),CSB-G010

@@ -1,0 +1,19 @@
+course_code,semester,module_code,module_name,time,day,lecturer,venue
+4BCT,I,CT436,Advanced Prof. Skills,10:00:00,Monday,(O Molloy),AC213
+4BCT,I,CT436,Advanced Prof. Skills,11:00:00,Monday,(O Molloy),AC213
+4BCT,I,MA3101,Eculidean & Non-Euclidean Geometry,12:00:00,Monday,(R Quinlan),AC202
+4BCT,I,MA416,Rings,11:00:00,Tuesday,(R Quinlan),ADB-1020
+4BCT,I,CT417,Software Engineering III,10:00:00,Wednesday,(E Ramlan),AC201
+4BCT,I,MA3101,Eculidean & Non-Euclidean Geometry,12:00:00,Wednesday,(R Quinlan),Joseph Larmor Theatre
+4BCT,I,CT417,Software Engineering III,13:00:00,Wednesday,(E Ramlan),AC201
+4BCT,I,CT4101,Machine Learning,14:00:00,Wednesday,(F Glavin),D’arcy Thompson Theatre
+4BCT,I,CT4101,Machine Learning,15:00:00,Wednesday,(F Glavin),Dillon Theatre
+4BCT,I,MA416,Rings,16:00:00,Wednesday,(R Quinlan),ADB-1020
+4BCT,I,MA490,Measure Theory,09:00:00,Thursday,(J Cruickshank),AC201
+4BCT,I,CT4100,Information Retrieval,10:00:00,Thursday,(C O'Riordan),CSB-G005
+4BCT,I,CT404,Graphics & Image Processing Lab,11:00:00,Thursday,(N Batool / W Qureshi),"Arts & Sci, Grd Fl, Room 105"
+4BCT,I,CT4100,Information Retrieval,12:00:00,Thursday,(C O'Riordan),CSB-G005
+4BCT,I,CT404,Graphics & Image Processing,13:00:00,Thursday,(N Batool / W Qureshi),AC201
+4BCT,I,CT404,Graphics & Image Processing,15:00:00,Thursday,(N Batool / W Qureshi),CSB-1009
+4BCT,I,MA490,Measure Theory,11:00:00,Friday,(J Cruickshank),AMB-1023
+4BCT,I,MA3101,Eculidean & Non-Euclidean Geometry,14:00:00,Friday,(R Quinlan),AC215

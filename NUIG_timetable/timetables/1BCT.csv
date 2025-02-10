@@ -1,0 +1,32 @@
+course_code,semester,module_code,module_name,time,day,lecturer,venue
+1BCT,I,EE130,Fundamentals of EEE,10:00:00,Monday,(J Breslin),ENG-2001
+1BCT,I,CT103,Programming,11:00:00,Monday,(S Redfern / K Mason),Dillon Theatre
+1BCT,I,CT101,Computing Systems,12:00:00,Monday,(B Chakravarthi),CA118
+1BCT,I,MA160,Mathematics,13:00:00,Monday,, CSB-1005
+1BCT,I,MA190,Mathematics,13:00:00,Monday,, CSB-1006
+1BCT,I,EE130,Fundamentals of EEE,15:00:00,Monday,(J Breslin),ENG-2001
+1BCT,I,CT103,Programming,16:00:00,Monday,(S Redfern / K Mason),CSB-G005
+1BCT,I,CT1112,Professional Skills I,09:00:00,Tuesday,(K Young),MRA201
+1BCT,I,MA160,Mathematics,10:00:00,Tuesday,, Tyndall Theatre
+1BCT,I,MA190,Mathematics,10:00:00,Tuesday,, Anderson Theatre
+1BCT,I,CT101,Computing Systems,11:00:00,Tuesday,(B Chakravarthi),ENG G018
+1BCT,I,-,CÉIM -,13:00:00,Tuesday,,CSB-2005/CSB-2006
+1BCT,I,CT103,Programming Lab,14:00:00,Tuesday,(S Redfern / K Mason),CSB-G001
+1BCT,I,CT103,Programming Lab,15:00:00,Tuesday,(S Redfern / K Mason),CSB-G001
+1BCT,I,CT103,Programming Lab,16:00:00,Tuesday,(S Redfern / K Mason),CSB-G010
+1BCT,I,CT103,Programming Lab,17:00:00,Tuesday,(S Redfern / K Mason),CSB-G010
+1BCT,I,MA190,Mathematics - Tutorial,09:00:00,Wednesday,(K Paul),AC213
+1BCT,I,MA160,Mathematics,10:00:00,Wednesday,, AC213
+1BCT,I,MA190,Mathematics,10:00:00,Wednesday,, Fottrell Theatre
+1BCT,I,CT102,Algorithms & Info. Systems Tutorial,13:00:00,Wednesday,(J Griffith),AC214
+1BCT,I,CT101,Computing Systems Lab,14:00:00,Wednesday,(B Chakravarthi),CSB-G010
+1BCT,I,CT101,Computing Systems Lab,15:00:00,Wednesday,(B Chakravarthi),CSB-G010
+1BCT,I,CT101,Computing Systems Lab,16:00:00,Wednesday,(B Chakravarthi),CSB-G010
+1BCT,I,CT101,Computing Systems Lab,17:00:00,Wednesday,(B Chakravarthi),CSB-G010
+1BCT,I,EE130,Fundamentals of EEE,09:00:00,Thursday,(J Breslin),CSB-1007
+1BCT,I,MA160,Mathematics,10:00:00,Thursday,, Dillon Theatre
+1BCT,I,MA190,Mathematics,10:00:00,Thursday,, Fottrell Theatre
+1BCT,I,CT1114,Web Development,11:00:00,Thursday,(S Redfern),"BLE2012, Block E"
+1BCT,I,CT1114,Web Development,12:00:00,Thursday,(S Redfern),"BLE2012, Block E"
+1BCT,I,CT102,Algorithms & Info. Systems,10:00:00,Friday,(J Griffith),CSB-G005
+1BCT,I,CT102,Algorithms & Info. Systems,11:00:00,Friday,(J Griffith),CSB-G005

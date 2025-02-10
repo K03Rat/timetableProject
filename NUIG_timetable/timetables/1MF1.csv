@@ -1,0 +1,27 @@
+course_code,semester,module_code,module_name,time,day,lecturer,venue
+1MF1,I,CT537,Software Engineering I Lab,09:00:00,Monday,(K Young),CSB-G009
+1MF1,I,CT870,Internet Programming Lab,10:00:00,Monday,(E Barrett),CSB-G009
+1MF1,I,CT870,Internet Programming Lab,11:00:00,Monday,(E Barrett),CSB-G009
+1MF1,I,CT537,Software Engineering I,12:00:00,Monday,(K Young),Joseph Larmor Theatre
+1MF1,I,CT537,Software Engineering 1,13:00:00,Monday,(K Young),Joseph Larmor Theatre
+1MF1,I,CT874,Programming I,15:00:00,Monday,(S Redfern / W Qureshi),Joseph Larmor Theatre
+1MF1,I,CT874,Programming I,16:00:00,Monday,(S Redfern / W Qureshi),CSB-1005
+1MF1,I,CT511,Databases,09:00:00,Tuesday,(A Brennan),CSB-G005
+1MF1,I,CT511,Databases,10:00:00,Tuesday,(A Brennan),CSB-G005
+1MF1,I,CT511,Databases Lab,12:00:00,Tuesday,(A Brennan),CSB-G009+CSB-G010
+1MF1,I,CT511,Databases Lab,13:00:00,Tuesday,(A Brennan),CSB-G009+CSB-G010
+1MF1,I,CT5117,Research Project,15:00:00,Tuesday,(B Chakravarthi),"AC203, Arts Sc Bldg"
+1MF1,I,CT861,Computer Architecture & Operating Systems Lab,16:00:00,Tuesday,(M Schukat / M Bendechache),CSB-G001
+1MF1,I,CT861,Computer Architecture & Operating Systems Lab,17:00:00,Tuesday,(M Schukat / M Bendechache),CSB-G001
+1MF1,I,CT870,Internet Programming,10:00:00,Wednesday,(E Barrett),CSB-G010
+1MF1,I,CT870,Internet Programming,11:00:00,Wednesday,(E Barrett),CSB-G010
+1MF1,I,CT874,Programming I Lab,16:00:00,Wednesday,(S Redfern / W Qureshi),CSB-G001
+1MF1,I,CT874,Programming I Lab,17:00:00,Wednesday,(S Redfern / W Qureshi),CSB-G001
+1MF1,I,CT537,Software Engineering I Lab,10:00:00,Thursday,(K Young),CSB-G010
+1MF1,I,CT861,Computer Architecture & Operating Systems,11:00:00,Thursday,(M Schukat / M Bendechache),CSB-1005
+1MF1,I,CT861,Computer Architecture & Operating Systems,12:00:00,Thursday,(M Schukat / M Bendechache),CSB-1005
+1MF1,I,-,CS Research Seminar Series,14:00:00,Thursday,,CSB-1005
+1MF1,I,CT853,Algorithms & Logical Methods,15:00:00,Thursday,(M Madden / J Manzoor),CSB-G005
+1MF1,I,CT853,Algorithms & Logical Methods,16:00:00,Thursday,(M Madden / J Manzoor),McMunn Theatre
+1MF1,I,*,English Language Centre,10:00:00,Friday,training, In-session
+1MF1,I,*,English Language Centre,11:00:00,Friday,training, In-session
